@@ -1,7 +1,7 @@
 #
 # This file will NOT protect you against malicious domains
 #
-# Last update: 2018.05.21 23:35 (CEST)
+# Last update: 2018.06.01 00:34 (CEST)
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
@@ -17,13 +17,11 @@
 127.0.0.1	rotumal.com
 127.0.0.1	salemove.com
 127.0.0.1	sessioncam.com
-127.0.0.1	static.fysco.ru
 127.0.0.1	userreplay.net
 127.0.0.1	yandex.ru
 127.0.0.1	clicktale.net
 127.0.0.1	rotumal.com
 127.0.0.1	rexmox.com
-127.0.0.1	gbpclk.com
 127.0.0.1	predictiondisplay.com
 127.0.0.1	cltrkr.com
 127.0.0.1	combo-search.com
@@ -35,13 +33,18 @@
 127.0.0.1	socialnewpages.com
 127.0.0.1	singleshealth.space
 127.0.0.1	bob007.site
+127.0.0.1	adviewgroup.com
 #MD
 127.0.0.1	mgid.com
 127.0.0.1	wsp.mgid.com
+127.0.0.1	gbpclk.com
+127.0.0.1	www.gbpclk.com
+127.0.0.1	fysco.ru
+127.0.0.1	static.fysco.ru
+127.0.0.1	adtiger.de
 127.0.0.1	ads.adtiger.de
 127.0.0.1	coin-hive.com
 127.0.0.1	coinhive.com
-127.0.0.1	adviewgroup.com
 127.0.0.1	parwise.de
 127.0.0.1	wwa.parwise.de
 127.0.0.1	trackvoluum.com
