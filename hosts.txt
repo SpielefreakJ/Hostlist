@@ -1,19 +1,14 @@
 #
 # This file will NOT protect you against malicious domains
 #
-# Last update: 2018.05.21 11:22 (CEST)
+# Last update: 2018.05.21 12:05 (CEST)
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
 #
 # AD SERVERS START HERE
 #
-127.0.0.1	clicktale.net
-127.0.0.1	ads.adtiger.de
-127.0.0.1	coin-hive.com
-127.0.0.1	coinhive.com
 127.0.0.1	decibelinsight.net
-127.0.0.1	mgid.com
 127.0.0.1	mysagagame.com
 127.0.0.1	parwise.de
 127.0.0.1	premiumyva.appspot.com
@@ -24,5 +19,29 @@
 127.0.0.1	sessioncam.com
 127.0.0.1	static.fysco.ru
 127.0.0.1	userreplay.net
-127.0.0.1	wsp.mgid.com
 127.0.0.1	yandex.ru
+127.0.0.1	clicktale.net
+127.0.0.1	rotumal.com
+127.0.0.1	rexmox.com
+127.0.0.1	gbpclk.com
+127.0.0.1	predictiondisplay.com
+127.0.0.1	cltrkr.com
+127.0.0.1	combo-search.com
+127.0.0.1	computer-dex305510.ga
+127.0.0.1	afstats-dex02.ml
+127.0.0.1	best2017games.com
+127.0.0.1	jf71qh5v14.com
+127.0.0.1	platincasino.com
+#MD
+127.0.0.1	mgid.com
+127.0.0.1	wsp.mgid.com
+127.0.0.1	ads.adtiger.de
+127.0.0.1	coin-hive.com
+127.0.0.1	coinhive.com
+127.0.0.1	adviewgroup.com
+127.0.0.1	parwise.de
+127.0.0.1	wwa.parwise.de
+127.0.0.1	trackvoluum.com
+127.0.0.1	foy4a.trackvoluum.com
+127.0.0.1	popads.net
+127.0.0.1	serve.popads.net
