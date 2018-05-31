@@ -1,7 +1,7 @@
 #
 # This file will NOT protect you against malicious domains
 #
-# Last update: 2018.06.01 00:34 (CEST)
+# Last update: 2018.06.01 01:19 (CEST)
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
@@ -34,6 +34,7 @@
 127.0.0.1	singleshealth.space
 127.0.0.1	bob007.site
 127.0.0.1	adviewgroup.com
+127.0.0.1	track.gamesamba.com
 #MD
 127.0.0.1	mgid.com
 127.0.0.1	wsp.mgid.com
