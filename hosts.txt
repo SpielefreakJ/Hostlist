@@ -34,6 +34,7 @@
 127.0.0.1	platincasino.com
 127.0.0.1	socialnewpages.com
 127.0.0.1	singleshealth.space
+127.0.0.1	bob007.site
 #MD
 127.0.0.1	mgid.com
 127.0.0.1	wsp.mgid.com
