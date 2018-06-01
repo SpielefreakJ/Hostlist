@@ -1,7 +1,7 @@
 #
 # This file will NOT protect you against malicious domains
 #
-# Last update: 2018.06.01 01:44 (CEST)
+# Last update: 2018.06.01 13:00 (CEST)
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
@@ -54,3 +54,7 @@
 127.0.0.1	foy4a.trackvoluum.com
 127.0.0.1	popads.net
 127.0.0.1	serve.popads.net
+127.0.0.1	afstats-dex02.ml
+127.0.0.1	de.afstats-dex02.ml
+127.0.0.1	computer-dex305519.ga
+127.0.0.1	de.computer-dex305519.ga
