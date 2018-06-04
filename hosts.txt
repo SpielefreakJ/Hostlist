@@ -1,7 +1,7 @@
 #
 # This file will NOT protect you against malicious domains
 #
-# Last update: 2018.06.01 13:00 (CEST)
+# Last update: 2018.06.04 16:21 (CEST)
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
@@ -25,8 +25,6 @@
 127.0.0.1	predictiondisplay.com
 127.0.0.1	cltrkr.com
 127.0.0.1	combo-search.com
-127.0.0.1	computer-dex305510.ga
-127.0.0.1	afstats-dex02.ml
 127.0.0.1	best2017games.com
 127.0.0.1	jf71qh5v14.com
 127.0.0.1	platincasino.com
@@ -58,3 +56,7 @@
 127.0.0.1	de.afstats-dex02.ml
 127.0.0.1	computer-dex305519.ga
 127.0.0.1	de.computer-dex305519.ga
+127.0.0.1	sunmaker.com
+127.0.0.1	www.sunmaker.com
+127.0.0.1	addroplet.com
+127.0.0.1	engine.addroplet.com
