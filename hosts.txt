@@ -1,7 +1,7 @@
 #
 # This file will NOT protect you against malicious domains
 #
-# Last update: 2018.06.04 16:21 (CEST)
+# Last update: 2018.06.09 13:55 (CEST)
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
@@ -60,3 +60,7 @@
 127.0.0.1	www.sunmaker.com
 127.0.0.1	addroplet.com
 127.0.0.1	engine.addroplet.com
+
+#Adware Sites
+127.0.0.1	lokaleswetter.com
+
