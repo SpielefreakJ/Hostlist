@@ -1,7 +1,7 @@
 #
 # This file will NOT protect you against malicious domains
 #
-# Last update: 2018.06.09 13:55 (CEST)
+# Last update: 2018.06.10 03:53 (CEST)
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
@@ -59,7 +59,10 @@
 127.0.0.1	sunmaker.com
 127.0.0.1	www.sunmaker.com
 127.0.0.1	addroplet.com
-127.0.0.1	engine.addroplet.com
+127.0.0.1	engine.addroplet.co
+127.0.0.1	damoh.computerbild.de
+127.0.0.1	2.damoh.computerbild.de
+127.0.0.1	1879bcd569753781945c3e4125a7988858e3ebc1.2.damoh.computerbild.de
 
 #Adware Sites
 127.0.0.1	lokaleswetter.com
