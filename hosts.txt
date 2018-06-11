@@ -1,7 +1,7 @@
 #
 # This file will NOT protect you against malicious domains
 #
-# Last update: 2018.06.11 23:06 (CEST)
+# Last update: 2018.06.11 23:20 (CEST)
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
@@ -35,6 +35,12 @@
 127.0.0.1	track.gamesamba.com
 127.0.0.1	newtab-tv.com
 127.0.0.1	predictiondisplay.com
+127.0.0.1	4chrm100218sad.ru
+127.0.0.1	notifications-online.systems
+127.0.0.1	news-notification.tools
+127.0.0.1	my.adright.co
+127.0.0.1	affiliate.reise.de
+
 #MD
 127.0.0.1	mgid.com
 127.0.0.1	wsp.mgid.com
@@ -52,18 +58,31 @@
 127.0.0.1	foy4a.trackvoluum.com
 127.0.0.1	popads.net
 127.0.0.1	serve.popads.net
-127.0.0.1	afstats-dex02.ml
-127.0.0.1	de.afstats-dex02.ml
-127.0.0.1	computer-dex305519.ga
-127.0.0.1	de.computer-dex305519.ga
 127.0.0.1	sunmaker.com
 127.0.0.1	www.sunmaker.com
 127.0.0.1	addroplet.com
 127.0.0.1	engine.addroplet.co
-127.0.0.1	betano.com
-127.0.0.1	de.betano.com
 127.0.0.1	exdynsrv.com
 127.0.0.1	ads.exdynsrv.com
+127.0.0.1	mlhtgjf770.top
+127.0.0.1	amazon.mlhtgjf770.top
+127.0.0.1	trafficsourceoftoplevelcontentsubmit.download
+127.0.0.1	updateauto.trafficsourceoftoplevelcontentsubmit.download
+127.0.0.1	wwwpromoter.com
+127.0.0.1	creative.wwwpromoter.com
+127.0.0.1	tt.adcocktail.com
+127.0.0.1	pop.adcocktail.com
+127.0.0.1	track.adcocktail.com
+
+#MDLang
+127.0.0.1	computer-dex305519.ga
+127.0.0.1	de.computer-dex305519.ga
+127.0.0.1	afstats-dex02.ml
+127.0.0.1	de.afstats-dex02.ml
+127.0.0.1	betano.com
+127.0.0.1	de.betano.com
+127.0.0.1	1xbet.com
+127.0.0.1	de.1xbet.com
 
 #Computerbild.de
 127.0.0.1	damoh.computerbild.de
@@ -74,3 +93,5 @@
 #Adware Sites
 127.0.0.1	lokaleswetter.com
 
+#idk
+127.0.0.1	img.bet-at-home.com
