@@ -1,7 +1,7 @@
 #
 # This file will NOT protect you against malicious domains
 #
-# Last update: 2018.06.11 23:20 (CEST)
+# Last update: 2018.06.12 16:44 (CEST)
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
@@ -83,6 +83,8 @@
 127.0.0.1	de.betano.com
 127.0.0.1	1xbet.com
 127.0.0.1	de.1xbet.com
+127.0.0.1	bftrackde01.tk
+127.0.0.1	de.bftrackde01.tk
 
 #Computerbild.de
 127.0.0.1	damoh.computerbild.de
