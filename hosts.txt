@@ -34,7 +34,6 @@
 127.0.0.1	adviewgroup.com
 127.0.0.1	track.gamesamba.com
 127.0.0.1	newtab-tv.com
-127.0.0.1	predictiondisplay.com
 127.0.0.1	4chrm100218sad.ru
 127.0.0.1	notifications-online.systems
 127.0.0.1	news-notification.tools
