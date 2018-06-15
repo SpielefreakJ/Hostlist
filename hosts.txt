@@ -1,7 +1,7 @@
 #
 # This file will NOT protect you against malicious domains
 #
-# Last update: 2018.06.12 16:44 (CEST)
+# Last update: 2018.06.15 18:23 (CEST)
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
@@ -72,6 +72,8 @@
 127.0.0.1	tt.adcocktail.com
 127.0.0.1	pop.adcocktail.com
 127.0.0.1	track.adcocktail.com
+127.0.0.1 cmstrader.com
+127.0.0.1 www.cmstrader.com
 
 #MDLang
 127.0.0.1	computer-dex305519.ga
