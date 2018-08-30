@@ -37,8 +37,8 @@
 127.0.0.1	4chrm100218sad.ru
 127.0.0.1	notifications-online.systems
 127.0.0.1	news-notification.tools
-127.0.0.1	my.adright.co
-127.0.0.1	affiliate.reise.de
+127.0.0.1 my.adright.co
+127.0.0.1 affiliate.reise.de
 
 #MD
 127.0.0.1	mgid.com
