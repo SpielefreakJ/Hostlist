@@ -95,6 +95,36 @@
 
 #Adware Sites
 127.0.0.1	lokaleswetter.com
+127.0.0.1	scribus.fr
+127.0.0.1	celestia.es
+127.0.0.1	clonezilla.es
+127.0.0.1	inkscape.es
+127.0.0.1	paintnet.es
+127.0.0.1	handbrake.es
+127.0.0.1	gimp.es
+127.0.0.1	thunderbird.es
+127.0.0.1	unetbootin.org
+127.0.0.1	unetbootin.net
+127.0.0.1	notepad2.com
+127.0.0.1	keepass.com
+127.0.0.1	keepass.fr
+127.0.0.1	7zip.fr
+127.0.0.1	inkscape.fr
+127.0.0.1	gparted.fr
+127.0.0.1	clonezilla.fr
+127.0.0.1	paintnet.fr
+127.0.0.1	greenshot.fr
+127.0.0.1	audacity.es
+127.0.0.1	stellarium.fr
+127.0.0.1	celestia.fr
+127.0.0.1	azureus.es
+127.0.0.1	audacity.fr
+127.0.0.1	filezilla.fr
+127.0.0.1	truecrypt.fr
+127.0.0.1	blender3d.fr
+127.0.0.1	grooveshark.fr
+127.0.0.1	adblock.fr
+127.0.0.1	qbittorrent.com
 
 #idk
 127.0.0.1	img.bet-at-home.com
