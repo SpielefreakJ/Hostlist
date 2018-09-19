@@ -74,6 +74,8 @@
 127.0.0.1	track.adcocktail.com
 127.0.0.1	cmstrader.com
 127.0.0.1	www.cmstrader.com
+127.0.0.1 sunnyplayer.com
+127.0.0.1 www.sunnyplayer.com
 
 #MDLang
 127.0.0.1	computer-dex305519.ga
