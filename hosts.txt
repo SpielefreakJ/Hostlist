@@ -131,3 +131,4 @@
 #idk
 127.0.0.1	img.bet-at-home.com
 127.0.0.1 guildofangels.net
+127.0.0.1 ivehotty.com
