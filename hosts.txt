@@ -39,6 +39,7 @@
 127.0.0.1	news-notification.tools
 127.0.0.1	my.adright.co
 127.0.0.1	affiliate.reise.de
+127.0.0.1 track.approvedfornext.com
 
 #MD
 127.0.0.1	mgid.com
