@@ -1,5 +1,5 @@
 #
-# This file will NOT protect you against malicious domains
+# This file will NOT fully protect you against malicious domains
 #
 # Last update: 2018.06.15 18:23 (CEST)
 #
@@ -40,6 +40,7 @@
 127.0.0.1	my.adright.co
 127.0.0.1	affiliate.reise.de
 127.0.0.1 track.approvedfornext.com
+127.0.0.1 traacker2.info
 
 #MD
 127.0.0.1	mgid.com
