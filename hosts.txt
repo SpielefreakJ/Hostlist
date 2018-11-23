@@ -1,6 +1,15 @@
 #
 # This file will NOT fully protect you against malicious domains
 #
+# Best use with other files like:
+# https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# https://mirror1.malwaredomains.com/files/justdomains
+# http://sysctl.org/cameleon/hosts
+# https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+# https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+# https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+# https://hosts-file.net/ad_servers.txt
+#
 # Last update: 2018.06.15 18:23 (CEST)
 #
 127.0.0.1 localhost #IPv4 localhost
@@ -41,8 +50,10 @@
 127.0.0.1	affiliate.reise.de
 127.0.0.1 track.approvedfornext.com
 127.0.0.1 traacker2.info
+127.0.0.1 trackingfield.info
 
 #MD
+127.0.0.1 www.mgid.com
 127.0.0.1	mgid.com
 127.0.0.1	wsp.mgid.com
 127.0.0.1	gbpclk.com
@@ -134,3 +145,6 @@
 127.0.0.1	img.bet-at-home.com
 127.0.0.1 guildofangels.net
 127.0.0.1 ivehotty.com
+
+# Whitelist these when having trouble seeing some sites
+127.0.0.1 runative.com
