@@ -10,8 +10,6 @@
 # https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 # https://hosts-file.net/ad_servers.txt
 #
-# Last update: 2018.06.15 18:23 (CEST)
-#
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
 #
