@@ -12,6 +12,10 @@
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
+
+# Whitelist these when having trouble seeing some sites
+127.0.0.1 runative.com
+
 #
 # AD SERVERS START HERE
 #
@@ -106,7 +110,7 @@
 127.0.0.1	1879bcd569753781945c3e4125a7988858e3ebc1.2.damoh.computerbild.de
 127.0.0.1	3c4d6cc2eedaeecef4837ab007455f7c2b0087c5.2.damoh.computerbild.de
 
-#Adware Sites
+#Adware Sites / Fake Sites
 127.0.0.1	lokaleswetter.com
 127.0.0.1	scribus.fr
 127.0.0.1	celestia.es
@@ -566,6 +570,3 @@
 127.0.0.1	zrav2wkbrs.com
 127.0.0.1	zu4l167j77.com
 127.0.0.1	zy16eoat1w.com
-
-# Whitelist these when having trouble seeing some sites
-127.0.0.1 runative.com
