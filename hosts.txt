@@ -143,6 +143,14 @@
 127.0.0.1	adblock.fr
 127.0.0.1	qbittorrent.com
 
+#malware sites
+127.0.0.1 oinqqbzs.com
+127.0.0.1 ecpms.net
+127.0.0.1 www.ecpms.net
+
+#fraud
+127.0.0.1 creative.stripchat.com
+
 #idk
 127.0.0.1	img.bet-at-home.com
 127.0.0.1 guildofangels.net
