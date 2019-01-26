@@ -91,6 +91,14 @@
 127.0.0.1	www.cmstrader.com
 127.0.0.1 sunnyplayer.com
 127.0.0.1 www.sunnyplayer.com
+127.0.0.1	t.frtyq.com
+127.0.0.1	t.hrtyc.com
+127.0.0.1	t.grtyb.com
+127.0.0.1	t.frtyj.com
+127.0.0.1	t.irtya.com
+127.0.0.1	t.frtyi.com
+127.0.0.1	t.frtyo.com
+127.0.0.1	t.grtyi.com
 
 #MDLang
 127.0.0.1	computer-dex305519.ga
