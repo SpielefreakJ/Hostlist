@@ -99,6 +99,7 @@
 127.0.0.1	t.frtyi.com
 127.0.0.1	t.frtyo.com
 127.0.0.1	t.grtyi.com
+127.0.0.1 gutscheinexxl.de
 
 #MDLang
 127.0.0.1	computer-dex305519.ga
