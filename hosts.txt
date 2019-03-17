@@ -53,6 +53,9 @@
 127.0.0.1 track.approvedfornext.com
 127.0.0.1 traacker2.info
 127.0.0.1 trackingfield.info
+127.0.0.1 gutscheinexxl.de
+127.0.0.1 spielenxxl.de
+127.0.0.1 rtrtj5.host
 
 #MD
 127.0.0.1 www.mgid.com
@@ -99,7 +102,6 @@
 127.0.0.1	t.frtyi.com
 127.0.0.1	t.frtyo.com
 127.0.0.1	t.grtyi.com
-127.0.0.1 gutscheinexxl.de
 
 #MDLang
 127.0.0.1	computer-dex305519.ga
