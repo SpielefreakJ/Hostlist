@@ -17,6 +17,12 @@
 127.0.0.1 runative.com
 
 #
+# Garbage starts here
+#
+127.0.0.1 epicgames.com
+127.0.0.1 status.epicgames.com
+
+#
 # AD SERVERS START HERE
 #
 127.0.0.1	decibelinsight.net
