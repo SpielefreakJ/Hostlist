@@ -109,6 +109,8 @@
 127.0.0.1	t.frtyi.com
 127.0.0.1	t.frtyo.com
 127.0.0.1	t.grtyi.com
+127.0.0.1 ang-content.com
+127.0.0.1 hw-cdn2.ang-content.com
 
 #MDLang
 127.0.0.1	computer-dex305519.ga
