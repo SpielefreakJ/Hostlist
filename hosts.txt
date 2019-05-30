@@ -63,6 +63,8 @@
 127.0.0.1 gutscheinexxl.de
 127.0.0.1 spielenxxl.de
 127.0.0.1 rtrtj5.host
+127.0.0.1 clk.gg
+127.0.0.1 href.li
 
 #MD
 127.0.0.1 www.mgid.com
@@ -109,8 +111,18 @@
 127.0.0.1	t.frtyi.com
 127.0.0.1	t.frtyo.com
 127.0.0.1	t.grtyi.com
-127.0.0.1 ang-content.com
-127.0.0.1 hw-cdn2.ang-content.com
+127.0.0.1	ang-content.com
+127.0.0.1	hw-cdn2.ang-content.com
+127.0.0.1	thewhizproducts.com
+127.0.0.1	screenaddict.thewhizproducts.com
+127.0.0.1	searchmulty.com
+127.0.0.1	lp.searchmulty.com
+127.0.0.1	videoconverterz.com
+127.0.0.1	install.videoconverterz.com
+127.0.0.1	flowwiththetide.xyz
+127.0.0.1	redir.flowwiththetide.xyz
+127.0.0.1	any-templates.com
+127.0.0.1	install.any-templates.com
 
 #MDLang
 127.0.0.1	computer-dex305519.ga
@@ -163,19 +175,24 @@
 127.0.0.1	adblock.fr
 127.0.0.1	qbittorrent.com
 
+#PUP
+127.0.0.1	shakesmobi1055.com
+
 #malware sites
-127.0.0.1 oinqqbzs.com
-127.0.0.1 ecpms.net
-127.0.0.1 www.ecpms.net
+127.0.0.1	oinqqbzs.com
+127.0.0.1	ecpms.net
+127.0.0.1	www.ecpms.net
 
 #fraud
-127.0.0.1 creative.stripchat.com
+127.0.0.1	creative.stripchat.com
 
 #idk
 127.0.0.1	img.bet-at-home.com
-127.0.0.1 guildofangels.net
-127.0.0.1 ivehotty.com
-127.0.0.1 rosemand.pro
+127.0.0.1	guildofangels.net
+127.0.0.1	ivehotty.com
+127.0.0.1	rosemand.pro
+127.0.0.1	heckcallohertons.info
+
 
 #all Sites on IP 198.134.112.244 (Malwarebytes says Malwaretising)
 127.0.0.1	0a0qetx8et.com
