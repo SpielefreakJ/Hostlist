@@ -1,6 +1,6 @@
 # Hostlist.txt
 
-A little private host list for my (and maybe your) Pi-Hole
+A small private host list for my Pi-Hole (and maybe yours)
 
 This file will NOT fully protect you against malicious domains
 
