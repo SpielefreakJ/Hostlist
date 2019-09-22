@@ -6,6 +6,9 @@ This file will NOT fully protect you against malicious domains
 
 Raw link to use: [RAW](https://raw.githubusercontent.com/SpielefreakJ/Hostlist/master/hosts.txt)
 
+Or use my DNS-Server: 193.30.122.213 (#53)
+
+
 Best use with other files like:<br/>
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts<br/>
 https://mirror1.malwaredomains.com/files/justdomains<br/>
