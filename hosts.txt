@@ -17,7 +17,7 @@
 127.0.0.1 runative.com
 
 #
-# Garbage starts here
+# Garbage sites
 #
 127.0.0.1 epicgames.com
 127.0.0.1 www.epicgames.com
@@ -66,7 +66,7 @@
 127.0.0.1 clk.gg
 127.0.0.1 href.li
 
-#MD
+# MD
 127.0.0.1 www.mgid.com
 127.0.0.1	mgid.com
 127.0.0.1	wsp.mgid.com
@@ -124,7 +124,7 @@
 127.0.0.1	any-templates.com
 127.0.0.1	install.any-templates.com
 
-#MDLang
+# MDLang
 127.0.0.1	computer-dex305519.ga
 127.0.0.1	de.computer-dex305519.ga
 127.0.0.1	afstats-dex02.ml
@@ -136,13 +136,13 @@
 127.0.0.1	bftrackde01.tk
 127.0.0.1	de.bftrackde01.tk
 
-#Computerbild.de
+# Computerbild.de
 127.0.0.1	damoh.computerbild.de
 127.0.0.1	2.damoh.computerbild.de
 127.0.0.1	1879bcd569753781945c3e4125a7988858e3ebc1.2.damoh.computerbild.de
 127.0.0.1	3c4d6cc2eedaeecef4837ab007455f7c2b0087c5.2.damoh.computerbild.de
 
-#Adware Sites / Fake Sites
+# Adware Sites / Fake Sites
 127.0.0.1	lokaleswetter.com
 127.0.0.1	scribus.fr
 127.0.0.1	celestia.es
@@ -175,17 +175,233 @@
 127.0.0.1	adblock.fr
 127.0.0.1	qbittorrent.com
 
-#PUP
+# PUP
 127.0.0.1	shakesmobi1055.com
 
-#malware sites
+# malware sites
 127.0.0.1	oinqqbzs.com
 127.0.0.1	ecpms.net
 127.0.0.1	www.ecpms.net
 
-#fraud
+# fraud
+127.0.0.1	stripchat.com
 127.0.0.1	creative.stripchat.com
+
+# fraud / phishing (from https://www.onlinewarnungen.de/tag/fakeshop/ )
 127.0.0.1 buchliebe.eu
+127.0.0.1 buch-geek.de
+127.0.0.1 elektrotraum.com
+127.0.0.1 zocker.shop
+127.0.0.1 apodeutschland.biz
+127.0.0.1 beta-elec.store
+127.0.0.1 bosa.shop
+127.0.0.1 diamond-dealz.com
+127.0.0.1 clever-technik.com
+127.0.0.1 ebikedream.de
+127.0.0.1 elektro-outlet24.com
+127.0.0.1 gamingreich.de
+127.0.0.1 kammerjäger-fried.de
+127.0.0.1 mixthermoshop.com
+127.0.0.1 smartdeliver.de
+127.0.0.1 my-sport24.net
+127.0.0.1 smartuniverse24.de
+127.0.0.1 tecsport.net
+127.0.0.1 vesken.de
+127.0.0.1 zockerhelden.com
+127.0.0.1 coupons-for-party.com
+127.0.0.1 ranzanmarket.com
+127.0.0.1 minjimmall.com
+127.0.0.1 glampinginthefield.de
+127.0.0.1 hloween.de
+127.0.0.1 city-rider.de
+127.0.0.1 nishainternational.com
+127.0.0.1 stresstherapy.de
+127.0.0.1 tech-translation.de
+127.0.0.1 seifenfee-amberg.de
+127.0.0.1 zumnagoldblick.de
+127.0.0.1 otiliaclan.de
+127.0.0.1 apotheke-rezeptfrei.eu
+127.0.0.1 motorrad-czanda.de
+127.0.0.1 brigittemodels-plus-kollektion.de
+127.0.0.1 nwgautomotiverepair.com
+127.0.0.1 lchdevshop.com
+127.0.0.1 klingler-shop.de
+127.0.0.1 wimpelparadis.de
+127.0.0.1 charmsdeonline.com
+127.0.0.1 ohara-art.com
+127.0.0.1 allerhand-md.de
+127.0.0.1 schwarzundlang.de
+127.0.0.1 yufengsale.com
+127.0.0.1 derosa-aalen.de
+127.0.0.1 sport-schulamt-wunsiedel-online.de
+127.0.0.1 kostueme-westermann.de
+127.0.0.1 mgvroehe.de
+127.0.0.1 steinbichler-online.de
+127.0.0.1 airlaufende.com
+127.0.0.1 jvermillion.com
+127.0.0.1 kugler-autolack.de
+127.0.0.1 helens-nacht.de
+127.0.0.1 mkbaudesign.de
+127.0.0.1 kapitaen-hass.de
+127.0.0.1 kurz-mal-zeit.de
+127.0.0.1 projekt-proopto.de
+127.0.0.1 sneakers4you.eu
+127.0.0.1 tonfeld-freiburg.de
+127.0.0.1 zollernalb-film.de
+127.0.0.1 blendnikfree.com
+127.0.0.1 sandalen.blendnikfree.com
+127.0.0.1 alcazar-vienna.at
+127.0.0.1 bootwintershopping.club
+127.0.0.1 ceb-electronics.de
+127.0.0.1 topdr-martens.com
+127.0.0.1 classic.topdr-martens.com
+127.0.0.1 contraconcept.de
+127.0.0.1 discountboots.website
+127.0.0.1 drayu.xyz
+127.0.0.1 drbugre.xyz
+127.0.0.1 drmartensboots.de
+127.0.0.1 drmartensdeutschland.de
+127.0.0.1 drmartensmarket.club
+127.0.0.1 drmartensoutlet.de
+127.0.0.1 drmartenschuhe.online
+127.0.0.1 drmartensq.club
+127.0.0.1 drmartensschuhe.de
+127.0.0.1 drmdw.com
+127.0.0.1 drmfb.com
+127.0.0.1 drmkb.com
+127.0.0.1 drmodestiefel.de
+127.0.0.1 drmshoes.club
+127.0.0.1 drmtt.com
+127.0.0.1 drshoestore.club
+127.0.0.1 drshoestores.club
+127.0.0.1 dsh-clan.de
+127.0.0.1 flatfind.de
+127.0.0.1 fiemartens.top
+127.0.0.1 hellobullfrog.at
+127.0.0.1 jagaranda.de
+127.0.0.1 katschaccc.de
+127.0.0.1 kindernothilfe-siegen.de
+127.0.0.1 nawi-leipzig.de
+127.0.0.1 negotiateit.co.nz
+127.0.0.1 marstore.club
+127.0.0.1 martensbootoutlet.club
+127.0.0.1 martenschuhe.online
+127.0.0.1 martinbootmall.site
+127.0.0.1 mbe-druckprofis.de
+127.0.0.1 praxis-reufels.de
+127.0.0.1 qqektcaaz.xyz
+127.0.0.1 restaurant-cancun-freiburg.de
+127.0.0.1 saleboots.club
+127.0.0.1 seelenkatze.de
+127.0.0.1 shoebootshopping.club
+127.0.0.1 shoes.drmartens-sales.com
+127.0.0.1 shop.drmartens-eu.com/en
+127.0.0.1 shop.drmartens-life.com
+127.0.0.1 steinhaustheater.de
+127.0.0.1 stoffundschnitt.com
+127.0.0.1 stop-oder-go.de
+127.0.0.1 ts-p.de
+127.0.0.1 zob-md.de
+127.0.0.1 3d-kino-weiden.de
+127.0.0.1 airshoeshop.co.uk
+127.0.0.1 asklepios-watch.de
+127.0.0.1 altenheim-index.de
+127.0.0.1 auftragsrating.de
+127.0.0.1 balawa-rama.de
+127.0.0.1 bigbiteglendale.com
+127.0.0.1 bundestagger.de
+127.0.0.1 bundis.de
+127.0.0.1 carlobond.de
+127.0.0.1 catscut.com
+127.0.0.1 cavete-marburg.de
+127.0.0.1 dieliseusen.de
+127.0.0.1 dirk-woker.de
+127.0.0.1 e3-berlin.de
+127.0.0.1 fernweh-heimathafen.de
+127.0.0.1 friseurlorelei.de
+127.0.0.1 fsyan.com
+127.0.0.1 fussballschuhekinder.de
+127.0.0.1 gerdkramer.de
+127.0.0.1 green-project-company.de
+127.0.0.1 hasipara.de
+127.0.0.1 hausfamilienpflege.de
+127.0.0.1 heartsandanimals.de
+127.0.0.1 heidelberg-heart-rhythm.de
+127.0.0.1 heinohellwig.de
+127.0.0.1 hns-yachting.de
+127.0.0.1 immobilien-mib.de
+127.0.0.1 imperia-tourney.de
+127.0.0.1 innenstadtmusik.de
+127.0.0.1 itts-berlin.de
+127.0.0.1 ju-waiblingen.de
+127.0.0.1 keramina.de
+127.0.0.1 kis-steglitz.de
+127.0.0.1 koerperpsychotherapie-hotline.de
+127.0.0.1 lavonjarg.de
+127.0.0.1 lua-nordbayern.de
+127.0.0.1 mamydog.com
+127.0.0.1 mathe-crashkurse.de
+127.0.0.1 mietwagenoslo.de
+127.0.0.1 modeschuhenike.de
+127.0.0.1 montecillo-hilfe.de
+127.0.0.1 morrocoy.de
+127.0.0.1 neue-galerie-la.de
+127.0.0.1 nike-de.shop
+127.0.0.1 nike-de.store
+127.0.0.1 nikeai.club
+127.0.0.1 nikeairmax97.de
+127.0.0.1 Nikebestshop.club
+127.0.0.1 nikebn.com
+127.0.0.1 nikecv.com
+127.0.0.1 Nikecz.com
+127.0.0.1 niked.club
+127.0.0.1 nikee.club
+127.0.0.1 nikeeshop.site
+127.0.0.1 nikefreesale2016.uk.com
+127.0.0.1 nikekc.com
+127.0.0.1 nikeg.club
+127.0.0.1 nikemain.com
+127.0.0.1 nikesd.com
+127.0.0.1 nikesl.com
+127.0.0.1 nikexk.com
+127.0.0.1 nikexp.com
+127.0.0.1 nikezb.com
+127.0.0.1 nikezdnsnx.tw
+127.0.0.1 nikezwppxm.tw
+127.0.0.1 nkbab.com
+127.0.0.1 nkspace.com
+127.0.0.1 nkstoresales.de
+127.0.0.1 pauls-service.de
+127.0.0.1 puy-de-dome.de
+127.0.0.1 radiant-health.at
+127.0.0.1 regjo-son.de
+127.0.0.1 sakurakingsport.com
+127.0.0.1 sanblascat.com
+127.0.0.1 schuhesmarkt.de
+127.0.0.1 schuler-neuss.de
+127.0.0.1 shoes-buy.store
+127.0.0.1 shoesbuy.site
+127.0.0.1 sneakerbuy.shop
+127.0.0.1 sneakervclub.com
+127.0.0.1 soulumbrella.de
+127.0.0.1 sport-alter.de
+127.0.0.1 spreewaldhaus-anita.de
+127.0.0.1 storeairmax.com
+127.0.0.1 sweetofferingscandy.com
+127.0.0.1 theredpage.de
+127.0.0.1 tobiasstiftung.de
+127.0.0.1 tsis-leipzig.de
+127.0.0.1 unitedseniors.de
+127.0.0.1 urbanheritage.co.uk
+127.0.0.1 vampirschlampen.de
+127.0.0.1 verquickt.de
+127.0.0.1 viktoriaschmid.de
+127.0.0.1 vivemo.de
+127.0.0.1 wahlvieh.de
+127.0.0.1 zeppelin2000.de
+127.0.0.1 zimmervermietung-schulze.de
+127.0.0.1 3f-service.de
+
 
 #idk
 127.0.0.1	img.bet-at-home.com
@@ -195,7 +411,7 @@
 127.0.0.1	heckcallohertons.info
 
 
-#all Sites on IP 198.134.112.244 (Malwarebytes says Malwaretising)
+# all Sites on IP 198.134.112.244 (Malwarebytes says Malwaretising)
 127.0.0.1	0a0qetx8et.com
 127.0.0.1	0azx1.com
 127.0.0.1	0eijh8996i.com
