@@ -178,10 +178,12 @@
 # PUP
 127.0.0.1	shakesmobi1055.com
 
-# malware sites
+# malware sites / malwaretising
 127.0.0.1	oinqqbzs.com
 127.0.0.1	ecpms.net
 127.0.0.1	www.ecpms.net
+127.0.0.1 dadsats.com
+127.0.0.1 www.dadsats.com
 
 # fraud
 127.0.0.1	stripchat.com
