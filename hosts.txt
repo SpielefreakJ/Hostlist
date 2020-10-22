@@ -66,6 +66,9 @@
 127.0.0.1 clk.gg
 127.0.0.1 href.li
 
+#idk
+127.0.0.1 bursultry-exprights.com
+
 # MD
 127.0.0.1 www.mgid.com
 127.0.0.1	mgid.com
