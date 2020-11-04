@@ -68,6 +68,8 @@
 
 #idk
 127.0.0.1 bursultry-exprights.com
+127.0.0.1 gmxext.com
+127.0.0.1 install.gmxext.com
 
 # MD
 127.0.0.1 www.mgid.com
