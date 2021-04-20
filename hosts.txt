@@ -22,8 +22,8 @@
 127.0.0.1 epicgames.com
 127.0.0.1 www.epicgames.com
 127.0.0.1 status.epicgames.com
-127.0.0.1 badlion.com
-127.0.0.1 client.badlion.com
+127.0.0.1 badlion.net
+127.0.0.1 client.badlion.net
 
 #
 # AD SERVERS START HERE
