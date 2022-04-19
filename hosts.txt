@@ -209,7 +209,6 @@
 127.0.0.1 ebikedream.de
 127.0.0.1 elektro-outlet24.com
 127.0.0.1 gamingreich.de
-127.0.0.1 kammerjäger-fried.de
 127.0.0.1 mixthermoshop.com
 127.0.0.1 smartdeliver.de
 127.0.0.1 my-sport24.net
@@ -423,7 +422,6 @@
 127.0.0.1 poschmann-net.de
 127.0.0.1 ppb-hannover.de
 127.0.0.1 rauchmelder-bremen.de
-127.0.0.1 rayban–brille.de
 127.0.0.1 rb-adr.com
 127.0.0.1 rb-ae.com
 127.0.0.1 rb-trend.com
@@ -1461,7 +1459,6 @@
 127.0.0.1	kaufenoutfitsonline.com # Ralph Lauren Bekleidung # Stand: 26.03.2017
 127.0.0.1	keitum-dierkes.de # Motorradbekleidung und Helme # 25.10.2018
 127.0.0.1	keltenfreunde-asperg.de # Mode der Marke Benetton # Stand: 03.08.2017
-127.0.0.1	kennelschmenger-españa.es # Schuhe # Stand: 25.08.2017
 127.0.0.1	kennelschmengerbasket.de # Schuhe # Stand: 29.05.2017
 127.0.0.1	kennelschmengersandalen.de # Schuhe # Stand: 29.05.2017
 127.0.0.1	kennelundschmengersandalen.de # Schuhe # Stand: 29.05.2017
@@ -2101,7 +2098,6 @@
 127.0.0.1	schuhe-deutschland.com # Sport-Schuhe # Stand: 10.02.2017
 127.0.0.1	schuhmuenchen.de # Puma-Schuhe # Stand: 29.05.2017
 127.0.0.1	schulsportzentrum-wetzlar.de # Bekleidung und Accessoires # Stand: 11.04.2019
-127.0.0.1	schwarzschnürhalbschuhe.de # Schuhe für Damen und Herren # Stand: 11.04.2017
 127.0.0.1	schwertfischstand.de # Schuhe # Stand: 03.03.2017
 127.0.0.1	scm-autopflege.de # Schuhe und schmuck # 15.03.2019
 127.0.0.1	scoliamall.eu # Diverse Produkte # 22.02.2019
@@ -2539,7 +2535,6 @@
 127.0.0.1	zugalumall.xyz
 127.0.0.1	zimmerei-arno-wagner.de
 127.0.0.1	1inday.com
-127.0.0.1	11111×40.de
 127.0.0.1	2gemini.de
 127.0.0.1	20jahrebrunch.de
 127.0.0.1	2014fahrradbekleidung.com
